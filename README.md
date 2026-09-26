@@ -1,1 +1,1 @@
-# Electrical---Calculator-
+# Electrical-Calculator
